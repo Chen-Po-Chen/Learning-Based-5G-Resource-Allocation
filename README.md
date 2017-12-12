@@ -1,6 +1,6 @@
 # Learning-Based 5G Resource Allocation
 
-According to the cisco report, the requirement of internet resource is growing rapidly.
+According to the [cisco report](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html?CAMPAIGN=MobileVNI2015&COUNTRY_SITE=us&POSITION=PR&REFERRING_SITE=SocialMedia&CREATIVE=PR+to+VNI+page&_ga=1.140386291.1192185982.1416847838#~stickynav=1), the requirement of internet resource is growing rapidly.
 
 Thus, a optimal resource allcatino scheme would provde the highest utility in limited resource.
 

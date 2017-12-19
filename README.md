@@ -21,12 +21,12 @@ The sharing references here is for research. If any authors do not want their pa
 
 > Traffic forcasting
 
->>[A Study of Deep Learning Networks on Mobile Traffic Forecasting](http://www.ce.ncu.edu.tw/~cwhuang/publications/1570392826.pdf
-) by C.-W. Huang, C.-T. Chiang, and Q. Li. [source code](https://github.com/IPCLab/CDRF)
+>> [A Study of Deep Learning Networks on Mobile Traffic Forecasting](http://www.ce.ncu.edu.tw/~cwhuang/publications/1570392826.pdf
+) by C.-W. Huang, C.-T. Chiang, and Q. Li. ([source code](https://github.com/IPCLab/CDRF))
 
 > Resource management
 
->>[Resource Management with Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3005750) by Mao, Hongzi, et al. HotNets, 2016
+>> [Resource Management with Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3005750) by Mao, Hongzi, et al. HotNets, 2016
 
->>[Mobile Traffic Forecasting for Maximizing 5G Network Slicing Resource Utilization](http://ieeexplore.ieee.org/document/8057230/
+>> [Mobile Traffic Forecasting for Maximizing 5G Network Slicing Resource Utilization](http://ieeexplore.ieee.org/document/8057230/
 ) by Sciancalepore, Vincenzo, et al. IEEE INFOCOM, 2017

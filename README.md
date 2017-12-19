@@ -9,7 +9,9 @@ According to the [cisco report](https://www.cisco.com/c/en/us/solutions/service-
 
 Thus, a optimal resource allcatino scheme would provde the highest utility in limited resource.
 
-And the machine learning is a very popular way to solve complex problem.
+However, resource allocation is a very complex problem.
+
+And we know the machine learning is a very popular way to solve this kinds of problems.
 
 In my research, I want to find a optimal resource allcation policy for the internet by machine learning.
 

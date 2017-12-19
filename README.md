@@ -17,16 +17,16 @@ In my research, I want to find a optimal resource allcation policy for the inter
 
 The sharing references here is for research. If any authors do not want their paper to be listed here, please contact Chen-Po Chen. (Email: cpchen840108@gmail.com)
 
-##Research Papers
+## Research Papers
 
-###Traffic forcasting
+### Traffic forcasting
 
 [A Study of Deep Learning Networks on Mobile Traffic Forecasting](http://www.ce.ncu.edu.tw/~cwhuang/publications/1570392826.pdf
 ) by C.-W. Huang, C.-T. Chiang, and Q. Li.
 
 [source code](https://github.com/IPCLab/CDRF)
 
-###Resource management
+### Resource management
 
 [Resource Management with Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3005750) by Mao, Hongzi, et al. HotNets, 2016
 

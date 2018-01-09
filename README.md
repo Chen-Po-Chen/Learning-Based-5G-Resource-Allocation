@@ -26,7 +26,13 @@ The sharing references here is for research. If any authors do not want their pa
 
 ### Resource management
 
-- [Resource Management with Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3005750) by Mao, Hongzi, et al. HotNets, 2016
+- [From 4g to 5g: Self-organized network management meets machine learning](https://arxiv.org/abs/1707.09300) by MOYSEN, Jessica; GIUPPONI, Lorenza. arXiv preprint arXiv, 2017
 
 - [Mobile Traffic Forecasting for Maximizing 5G Network Slicing Resource Utilization](http://ieeexplore.ieee.org/document/8057230/
 ) by Sciancalepore, Vincenzo, et al. IEEE INFOCOM, 2017
+
+- [Resource Management with Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3005750) by Mao, Hongzi, et al. HotNets, 2016
+
+- [Learning radio resource management in 5G networks: Framework, opportunities and challenges](https://arxiv.org/abs/1611.10253) by Calabrese, Francesco D., et al. arXiv, 2016
+
+- [Optimizing the Power Consumption of Mobile Networks Based on Traffic Prediction](http://ieeexplore.ieee.org/document/6899228/) by S. Dawoud, A. Uzun, S. Göndör and A. Küpper, IEEE 38th Annual Computer Software and Applications Conference, 2014
